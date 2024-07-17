@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [URL](https://your-solution-url.com)
-- Live Site URL: [URL](https://your-live-site-url.com)
+- Solution URL: [URL](https://github.com/japaxapa/fem-blog-card)
+- Live Site URL: [URL](https://fem-blog-card-rouge.vercel.app/)
 
 ## My process
 
